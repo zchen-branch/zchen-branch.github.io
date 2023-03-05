@@ -1,9 +1,9 @@
 [{
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
-    "namespace": "android_app",
-    "package_name": "com.crystal.android.deeplink",
+    "namespace": "buynow",
+    "package_name": "com.example.buynow",
     "sha256_cert_fingerprints":
-    ["C4:B4:9C:48:44:BA:E0:94:4A:F1:55:C9:7C:0B:35:E6:26:0B:50:02:AE:24:0D:9F:64:EE:A3:86:24:2A:7B:D1"]
+    ["C1:2C:90:D1:B5:6E:20:B7:3E:5B:5B:8F:24:85:F1:2B:54:9F:74:00:E8:D0:47:12:1A:60:58:E0:FD:BC:67:32"]
   }
 }]
